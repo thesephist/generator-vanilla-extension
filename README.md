@@ -1,4 +1,4 @@
-# generator-vanilla-extension [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-vanilla-extension [![NPM version][npm-image]][npm-url]
 > Generator for a simple chrome extension
 
 ## Installation
