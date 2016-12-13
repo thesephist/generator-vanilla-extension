@@ -2,3 +2,4 @@ node_modules
 coverage
 *.min.css
 .sass-cache
+yarn.lock
