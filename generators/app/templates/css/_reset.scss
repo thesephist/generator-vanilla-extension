@@ -1,0 +1,21 @@
+html,
+body,
+iframe,
+div,
+img,
+header,
+main,
+article,
+nav,
+footer {
+    display: block;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 250px;
+    padding: 6px 20px 16px 20px;
+}

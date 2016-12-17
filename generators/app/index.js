@@ -19,7 +19,7 @@ module.exports = yeoman.Base.extend({
       },
       {
         type: 'input',
-        name: 'bigshortname',
+        name: 'camelcase',
         message: 'CamelCase name:',
         default: 'Starter'
       },
@@ -33,13 +33,13 @@ module.exports = yeoman.Base.extend({
         type: 'input',
         name: 'author',
         message: 'Author:',
-        default: 'somebody'
+        default: 'anonymous'
       },
       {
         type: 'input',
         name: 'description',
         message: 'Project description:',
-        default: 'A lightweight web application boilerplate'
+        default: 'A lightweight Chromium extension boilerplate'
       }
     ]
 
