@@ -37,6 +37,12 @@ module.exports = yeoman.Base.extend({
       },
       {
         type: 'input',
+        name: 'email',
+        message: 'Email:',
+        default: 'user@example.com'
+      },
+      {
+        type: 'input',
         name: 'description',
         message: 'Project description:',
         default: 'A lightweight Chromium extension boilerplate'
